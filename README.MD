@@ -9,7 +9,7 @@
 - Dahuffman (pip install dahuffman)
 - ffmpeg (follow steps: https://www.wikihow.com/Install-FFmpeg-on-Windows  , https://extract.me  -- to convert 7z file to zip) 
 
-## Steps: All these files are in the 2018A7PS0261P_D2_code folder
+## Steps: All these files are in the code folder
 [NOTE: Running the files might give a warning (deprecation due to compatibility issues of TensorFlow 2.0 library and TensorFlow 1.0 code)]
 1. Train the auto-encoder (Optional, since I pretrained the model, takes a lot of time)
 	- run train.py
